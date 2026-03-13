@@ -2,7 +2,7 @@
 import streamlit as st
 from rag_engine import load_data, build_index, retrieve
 
-st.title("MUJ AI Campus Assistant")
+st.title("MUJ-Copilot")
 
 st.write("Ask anything about academics, student wellbeing, or campus life.")
 
